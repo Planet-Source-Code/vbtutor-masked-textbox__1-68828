@@ -1,0 +1,4 @@
+
+Masked TextBox (By VBTutor)
+
+Very good method to Restrict input in a Text box. This will allow only certain valid characters to be typed in a predefined format in the text box.
